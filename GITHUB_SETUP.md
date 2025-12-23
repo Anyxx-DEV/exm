@@ -42,7 +42,7 @@ git branch -M main
 
 ```powershell
 # Remote Repository hinzufügen (ersetze YOUR-USERNAME mit deinem GitHub-Username)
-git remote add origin https://github.com/YOUR-USERNAME/exm.git
+git remote add origin https://github.com/DEV-Skyz/exm
 
 # Dateien auf GitHub hochladen
 git push -u origin main
